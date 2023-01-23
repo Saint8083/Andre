@@ -7,3 +7,16 @@ thats your directory to the folder on the desktop
 
 these are the commands you will read them through later
 you git is connected as u can see it
+
+u she the note.txt i saved inside the folder now.. it has shown on the git bash
+anytime u save somethin into the folder on the desktop it reffered to as the remote while the github is the origin
+
+so if you make savings or edit or anythin at all on the repos remote folder
+you will come to gitbash to push it to the origin which is github online
+i'll do that now
+
+whats your email
+and name
+type it here
+kvictoria040@gmail.com
+andre victoria oluwakemi
