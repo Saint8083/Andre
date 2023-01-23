@@ -1,0 +1,9 @@
+tyring to navigate into your sait folder on desktop/
+
+/c/users/USER/dESKTOP/Desktop/saintrepos
+
+
+thats your directory to the folder on the desktop
+
+these are the commands you will read them through later
+you git is connected as u can see it
